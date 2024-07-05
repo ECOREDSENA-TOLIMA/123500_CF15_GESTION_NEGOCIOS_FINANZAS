@@ -843,7 +843,7 @@
               
 
           .tarjeta.color-acento-contenido1.p-4(x="30.8%" y="45.4%" numero="+")
-            p Se refiere a los costos que se mantienen aun cuando la actividad comercial varíe o sea replanteada, generalmente son de tipo operativo o administrativo, entre estos se encuentran:, los costos de publicidad y los servicios de análisis de mercado, entre otros.
+            p Se refiere a los costos que se mantienen aun cuando la actividad comercial varíe o sea replanteada, generalmente son de tipo operativo o administrativo, entre estos se encuentran: los costos de publicidad y los servicios de análisis de mercado, entre otros.
           .tarjeta.color-acento-contenido1.p-4(x="64.9%" y="46.8%" numero="+")
             p En este apartado se encuentran aquellos que generalmente están relacionados con las actividades y por tanto pueden variar dependiendo a la cantidad de demanda de las mismas, por ejemplo: sí el número de clientes aumenta dado el éxito de aplicación de estrategias de ventas, será necesario contratar más asesores de ventas.
 

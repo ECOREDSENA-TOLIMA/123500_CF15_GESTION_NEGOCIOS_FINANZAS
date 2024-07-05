@@ -135,7 +135,7 @@ export default {
         'Cano Contreras, O. F. (2022). Propuesta de una herramienta de <i>Business Intelligence</i> para mejorar la gestión comercial en una empresa de la industria pesquera. ',
       tipo: 'Artículo',
       link:
-        'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/8f0155a4-86a0-40a0-a654-63a0336eed52/content',
+        'https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/8f0155a4-86a0-40a0-a654-63a0336eed52/content',
     },
     {
       tema: '2.2 E-commerce',
@@ -167,7 +167,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Revista Venezolana de Gerencia.',
+      referencia:
+        'Bustinza Vargas, J. V. & Lacuta Sapacayo, L. (2022). Gestión Social de las TIC y las TAC en el sistema universitario. Revista Venezolana de Gerencia. ',
       link: '',
     },
     {
@@ -188,12 +189,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -249,12 +250,12 @@ export default {
         },
         {
           nombre: 'Oscar Daniel Espitia Marín  ',
-          cargo: 'Desarrollador <i>Fullstack</i>',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Sebastián Trujillo Afanador',
-          cargo: 'Desarrollador <i>Fullstack</i>',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
