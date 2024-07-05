@@ -132,10 +132,10 @@ export default {
     {
       tema: '1.2. Herramientas ofimáticas',
       referencia:
-        'Cano Contreras, O. F. (2022). Propuesta de una herramienta de Business Intelligence para mejorar la gestión comercial en una empresa de la industria pesquera. ',
+        'Cano Contreras, O. F. (2022). Propuesta de una herramienta de <i>Business Intelligence</i> para mejorar la gestión comercial en una empresa de la industria pesquera. ',
       tipo: 'Artículo',
       link:
-        'http://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/17737/Cano_co.pdf?sequence=1&isAllowed=y',
+        'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/8f0155a4-86a0-40a0-a654-63a0336eed52/content',
     },
     {
       tema: '2.2 E-commerce',
@@ -167,10 +167,8 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Bustinza Vargas, J. V. & Lacuta Sapacayo, L. (2022). Gestión Social de las TIC y las TAC en el sistema universitario.',
-      link:
-        'http://repositorio.cidecuador.org/jspui/bitstream/123456789/1846/1/Libro%20%20Gestion%20social%20de%20las%20TIC%20y%20TAC_VF%2012JUL2022.pdf',
+      referencia: 'Revista Venezolana de Gerencia.',
+      link: '',
     },
     {
       referencia:
@@ -245,18 +243,18 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Jose Jaime Luis Tang Pinzon',
+          nombre: 'Jose Jaime Luis Tang Pinzón',
           cargo: 'Diseño web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Oscar Daniel Espitia Marín  ',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollo <i>Fullstack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Desarrollo Fullstack',
+          nombre: 'Sebastián Trujillo Afanador',
+          cargo: 'Desarrollo <i>Fullstack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

@@ -336,7 +336,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in")
-          p Estimado aprendiz, se presenta un documento denominado "Propuesta de una herramienta de Business Intelligence para mejorar la gestión comercial en una empresa de la industria pesquera" el cual se encuentra en la sección de material complementario y que desarrolla la experiencia de una organización en el Perú que busca mejorar la gestión comercial, para lo cual parte del análisis de datos por un periodo de tiempo, que le permite tomar decisiones que impactan el área de ventas de la empresa.
+          p Estimado aprendiz, se presenta un documento denominado "Propuesta de una herramienta de <i>Business Intelligence</i> para mejorar la gestión comercial en una empresa de la industria pesquera" el cual se encuentra en la sección de material complementario y que desarrolla la experiencia de una organización en el Perú que busca mejorar la gestión comercial, para lo cual parte del análisis de datos por un periodo de tiempo, que le permite tomar decisiones que impactan el área de ventas de la empresa.
       
       
 </template>
